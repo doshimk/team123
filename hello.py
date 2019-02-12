@@ -1,3 +1,9 @@
+
 class calculator:
-    def function sub(x,y):
+    def sub(x,y):
         return x-y
+
+class calc:
+	def add(self,x, y):
+		return x+y	
+
